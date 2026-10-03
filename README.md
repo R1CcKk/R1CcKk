@@ -21,6 +21,7 @@
 ---
 
 <img align="right" width="52%" src="./assets/right-column-fade-v3.png" alt="Politecnico di Milano, high-performance computing infrastructure and finite element visualization">
+<img align="right" width="52%" src="./assets/numerical-extension.png" alt="Finite element mesh, wave field and numerical function visualization">
 
 ### From mathematical models to working code
 
@@ -65,6 +66,8 @@ current_focus/
   <img src="https://img.shields.io/badge/MATLAB-111827?style=flat-square&logoColor=F0A43A" alt="MATLAB">
 </p>
 
+<br clear="both">
+
 ### Current work
 
 I am currently exploring the **finite element method** through two projects focused on wave propagation problems.
@@ -80,8 +83,6 @@ The wave equation solver gave me practical experience with finite element discre
 I am now working on a related solver for the Helmholtz equation, focusing on its weak formulation, the assembly of stiffness and mass matrices, numerical accuracy and computational cost.
 
 These projects are part of my ongoing study of **numerical analysis**, **scientific computing** and the implementation of mathematical methods in C++.
-
-<br clear="both">
 
 ### Activity
 
