@@ -20,8 +20,7 @@
 
 ---
 
-<img align="right" width="52%" src="./assets/right-column-fade-v3.png" alt="Politecnico di Milano, high-performance computing infrastructure and finite element visualization">
-<img align="right" width="52%" src="./assets/numerical-extension.png" alt="Finite element mesh, wave field and numerical function visualization">
+<img align="right" width="52%" src="./assets/right-column-unified.png" alt="Politecnico di Milano, HPC infrastructure and continuous finite element visualization">
 
 ### From mathematical models to working code
 
