@@ -1,4 +1,4 @@
-<h1 align="center">R1CcKk</h1>
+<h1 align="center">Riccardo Mattia</h1>
 
 <p align="center">
   <a href="https://github.com/R1CcKk">
@@ -38,6 +38,7 @@ current_focus/
 ├── domain decomposition
 └── scientific computing
 ```
+---
 
 ### What I am learning
 
@@ -66,6 +67,8 @@ current_focus/
 </p>
 
 <br clear="both">
+
+---
 
 ### Current work
 
