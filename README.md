@@ -83,16 +83,4 @@ I am now working on a related solver for the Helmholtz equation, focusing on its
 
 These projects are part of my ongoing study of **numerical analysis**, **scientific computing** and the implementation of mathematical methods in C++.
 
-### Activity
 
-<p align="center">
-  <a href="https://github.com/R1CcKk">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=R1CcKk&bg_color=0B1220&color=8B9BB4&line=20B8CD&point=F0A43A&area=true&hide_border=true&hide_title=true" width="100%" alt="GitHub contribution activity graph">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Learning one model, one algorithm and one experiment at a time.</sub>
-</p>
