@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/R1CcKk">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=20B8CD&center=true&vCenter=true&repeat=true&width=720&height=45&lines=HPC+Engineering+Student;Numerical+Analysis+%26+Scientific+Computing;Learning+through+code%2C+models+and+experiments" alt="Animated typing introduction">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=20B8CD&center=true&vCenter=true&repeat=true&width=720&height=45&lines=HPC+Engineering+Student;" alt="Animated typing introduction">
   </a>
 </p>
 
@@ -19,71 +19,5 @@
 </p>
 
 ---
-
-<img align="right" width="52%" src="./assets/right-column-unified.png" alt="Politecnico di Milano, HPC infrastructure and continuous finite element visualization">
-
-### From mathematical models to working code
-
-I am an engineering student interested in **numerical analysis**, **scientific computing** and **high-performance computing**.
-
-I am currently studying **High Performance Computing Engineering** at **Politecnico di Milano**.
-
-I enjoy understanding how mathematical methods become reliable programs and how implementation choices affect accuracy, stability and computational performance.
-
-```text
-current_focus/
-├── numerical methods
-├── numerical linear algebra
-├── finite element methods
-├── domain decomposition
-└── scientific computing
-```
----
-
-### What I am learning
-
-#### Theory
-
-- Stability, convergence and numerical error
-- Numerical methods for linear systems
-- Approximation and interpolation
-- Numerical methods for differential equations
-- Domain decomposition methods
-
-#### Practice
-
-- Implementing numerical algorithms in C and C++
-- Using MATLAB for numerical experiments
-- Comparing accuracy, execution time and memory use
-- Writing reproducible computational experiments
-
-### Technical stack
-
-<p>
-  <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8DADC" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=A8DADC" alt="C++">
-  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F0A43A" alt="Java">
-  <img src="https://img.shields.io/badge/MATLAB-111827?style=flat-square&logoColor=F0A43A" alt="MATLAB">
-</p>
-
-<br clear="both">
-
----
-
-### Current work
-
-I am currently exploring the **finite element method** through two projects focused on wave propagation problems.
-
-```text
-fem/
-├── wave-equation-solver      C++ · private
-└── helmholtz-solver          C++ · work in progress
-```
-
-The wave equation solver gave me practical experience with finite element discretization, matrix assembly, boundary conditions and the interpretation of numerical results.
-
-I am now working on a related solver for the Helmholtz equation, focusing on its weak formulation, the assembly of stiffness and mass matrices, numerical accuracy and computational cost.
-
-These projects are part of my ongoing study of **numerical analysis**, **scientific computing** and the implementation of mathematical methods in C++.
 
 
